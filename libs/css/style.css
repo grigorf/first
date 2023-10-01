@@ -1,0 +1,19 @@
+.header_logo_img img{
+    width: 200px;
+}
+.header_menu_list{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content:end;
+}
+.header_menu_list_item{
+    padding: 5px 10px;
+}
+.header{
+    display: flex;
+}
+.header_menu{
+    text-decoration: none;
+}
+
